@@ -18,6 +18,12 @@ chmod +x deploy.sh
 ./deploy.sh
 ```
 
+必要に応じて環境変数を追加する
+
+```sh
+vim ~/dotfiles/zsh/env.zsh
+```
+
 ## 参考
 
 - [zsh(+ dotfiles)入門](https://zenn.dev/k4zu/articles/zsh-tutorial)
