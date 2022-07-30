@@ -20,5 +20,5 @@ chmod +x deploy.sh
 
 ## 参考
 
-- [zsh(+ dotfiles)入門](https://zenn.dev/k4zu/articles/zsh-tutorial
+- [zsh(+ dotfiles)入門](https://zenn.dev/k4zu/articles/zsh-tutorial)
 
