@@ -9,13 +9,7 @@ git clone
 シンボリックリンク作成
 
 ```sh
-# 初回は実行権限の付与が必要
-chmod +x deploy.sh
-```
-
-```sh
-# スクリプトを実行しシンボリックリンクを一気に作成する
-./deploy.sh
+ln -sv ~/dotfiles/.zshrc ~/
 ```
 
 必要に応じて環境変数を追加する
